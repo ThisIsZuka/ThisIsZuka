@@ -1,4 +1,11 @@
 ### Hi there 👋
+
+I'm Developer in thailand.
+I mainly develop using laravel framework.
+
+contact me
+E-mail : kittisak.udm@gmail.com
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThisIsZuka&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
 
