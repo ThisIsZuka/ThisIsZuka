@@ -3,7 +3,7 @@
 I'm Developer in thailand. <br>
 I mainly develop using laravel framework.
 <br><br>
-contact <br>
+<p>contact</p> <br>
 E-mail : kittisak.udm@gmail.com
 <br><br>
 
