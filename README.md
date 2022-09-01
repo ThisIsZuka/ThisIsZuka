@@ -10,13 +10,12 @@ E-mail : kittisak.udm@gmail.com
 @Line : thiszuka
 <br><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThisIsZuka&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThisIsZuka&count_private=true&show_icons=true&theme=radical)]
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsZuka&show_icons=true&theme=radical&layout=compact&count-private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsZuka&show_icons=true&theme=radical&layout=compact&count-private=true)]
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThisIsZuka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThisIsZuka&layout=compact)]
 
 
 <!--
