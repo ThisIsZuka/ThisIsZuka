@@ -2,7 +2,7 @@
 
 I'm Developer in thailand. <br>
 I'm mainly develop using laravel framework.<br>
-I'm learning Node js
+I'm learning Node js && React js
 <br><br>
 contact me<br>
 E-mail : kittisak.udm@gmail.com
