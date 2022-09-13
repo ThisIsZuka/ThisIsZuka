@@ -15,10 +15,10 @@ E-mail : kittisak.udm@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsZuka&show_icons=true&theme=radical&layout=compact&count-private=true)]
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThisIsZuka&layout=compact)]
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThisIsZuka&layout=compact)] -->
 
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="300" ></a>
+<img align="middle" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <!--
 **ThisIsZuka/ThisIsZuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
