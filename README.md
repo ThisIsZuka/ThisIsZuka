@@ -13,29 +13,23 @@ E-mail : kittisak.udm@gmail.com
 <div style="text-align: center;">
   <row>  
       <col>
-      <img style="height: 12rem;" src="https://github-readme-stats.vercel.app/api?username=ThisIsZuka&show_icons=true&theme=radical">
+      <img src="https://github-readme-stats.vercel.app/api?username=ThisIsZuka&show_icons=true&theme=radical">
       </col>
      <col>
-       <img style="height: 12rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsZuka&layout=compact">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsZuka&layout=compact">
       </col>
   </row>
 </div>
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
-  </tr>
-  <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <th>
+      <img src="https://github-readme-stats.vercel.app/api?username=ThisIsZuka&show_icons=true&theme=radical">
+    </th>
+    
+    <th>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsZuka&layout=compact">
+    </th>
   </tr>
 </table>
 
