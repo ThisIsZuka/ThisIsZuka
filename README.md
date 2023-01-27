@@ -12,7 +12,7 @@ E-mail : kittisak.udm@gmail.com
 
 <div style="text-align: center;">
   <row>  
-      <col style="margin-right: 2rem;">
+      <col>
       <img style="height: 12rem;" src="https://github-readme-stats.vercel.app/api?username=ThisIsZuka&show_icons=true&theme=radical">
       </col>
      <col>
