@@ -10,16 +10,28 @@ E-mail : kittisak.udm@gmail.com
 @Line : thiszuka
 <br><br>
 
-<p float="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThisIsZuka&count_private=true&show_icons=true&theme=radical" />
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsZuka&show_icons=true&theme=radical&layout=compact&count-private=true" alt="abhisheknaiidu" /> 
-</p>
+<div style="text-align: center;">
+  <row>  
+      <col style="margin-right: 2rem;">
+      <img style="height: 12rem;" src="https://github-readme-stats.vercel.app/api?username=ThisIsZuka&show_icons=true&theme=radical">
+      </col>
+     <col>
+       <img style="height: 12rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsZuka&layout=compact">
+      </col>
+  </row>
+</div>
+
+<br>
+
+<img align="middle" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThisIsZuka)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThisIsZuka&layout=compact)] -->
 
 
-<img align="middle" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 <!--
 **ThisIsZuka/ThisIsZuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
