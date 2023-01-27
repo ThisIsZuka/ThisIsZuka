@@ -12,7 +12,7 @@ E-mail : kittisak.udm@gmail.com
 
 <p float="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThisIsZuka&count_private=true&show_icons=true&theme=radical" />
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsZuka&show_icons=true&theme=radical&layout=compact&count-private=true" alt="abhisheknaiidu" /> 
 </p>
 
