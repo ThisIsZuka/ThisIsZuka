@@ -8,9 +8,6 @@ contact me<br>
 E-mail : kittisak.udm@gmail.com
 <br>
 @Line : thiszuka
-<br><br>
-
-
 
 <br>
 
