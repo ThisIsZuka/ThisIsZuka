@@ -10,17 +10,6 @@ E-mail : kittisak.udm@gmail.com
 @Line : thiszuka
 <br><br>
 
-<div style="text-align: center;">
-  <row>  
-      <col>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsZuka&layout=compact">
-      </col>
-     <col>
-       <img src="https://github-readme-stats.vercel.app/api?username=ThisIsZuka&show_icons=true&theme=radical">
-      </col>
-  </row>
-</div>
-
 
 
 <br>
