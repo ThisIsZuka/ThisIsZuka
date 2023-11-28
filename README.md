@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 I'm Developer in thailand. <br>
-I'm mainly develop using laravel framework.<br>
-I'm learning Node js & React js
+I'm mainly develop backend using laravel framework.<br>
+I'm mainly develop backend using React.js.<br>
+I'm learning Node js & Golang
 <br><br>
 contact me<br>
 E-mail : kittisak.udm@gmail.com
