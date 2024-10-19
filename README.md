@@ -1,18 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm KITTISAK UDOMTHAWORNKUL</h1>
+<h3 align="center">A backend developer based in Thailand</h3>
 
-I'm Developer in thailand. <br>
-I'm mainly develop backend using laravel framework.<br>
-I'm mainly develop frontend using React.js.<br>
-I'm learning Node js & Golang
+
+* Experienced with Laravel <br>
+* Working with Go (Currently learning and improving) <br>
+* Familiar with JavaScript <br>
 <br><br>
-contact me<br>
-E-mail : kittisak.udm@gmail.com
+
+<h3>Connect with me:</h3>
 <br>
-@Line : thiszuka
+E-mail: kittisak.udm@gmail.com
+<br>
+@Line: thiszuka
+<br>
+www.linkedin.com/in/kittisak-udomthawornkul-841791249/
 
 <br>
 
-<img align="middle" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<h1 align="center"><img align="middle" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /></h1>
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThisIsZuka)](https://github.com/anuraghazra/github-readme-stats) -->
 
